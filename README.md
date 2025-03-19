@@ -24,5 +24,14 @@ This project fetches news articles, summarizes them, analyzes sentiment, and con
 2.Install dependencies
   pip install -r requirements.txt
 
-3.Run the Streamlit app:
+3.create one newsapi key and keep it in .env file  
+
+4.Run the Streamlit app:
   streamlit run app.py
+
+Deployment in Hugging Faces
+
+1.Push to Hugging Face Spaces:
+Initialize a Git repository, commit your code, and push it to your Hugging Face Spaces repository.
+
+2.For detailed instructions, refer to Hugging Face's documentation.
